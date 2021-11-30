@@ -1,0 +1,3 @@
+E:/My file/Workshop/lion/A - Watermelon/cmake-build-debug/CMakeFiles/A___Watermelon.dir
+E:/My file/Workshop/lion/A - Watermelon/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/My file/Workshop/lion/A - Watermelon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
